@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<p style="color:red;">This is a my first commit</p>
+<p style="color:blue;">This is a my first commit</p>
 <p>This is changes </p>
 <p  style="color:red;"></p>>This is nothing</p>
 <div><p style="color:red;"></pstyle>>Je suis yassine ouzeren 25 ans ,ingenieur informatique promotion 2019 de EMSI ,jaime 
