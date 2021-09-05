@@ -10,7 +10,9 @@
 
 <div><h1>Recompenses</h1>
     <p style="color:yellow;"></pstyle>>Je suis un ingenieur en genie civile promotion 2020
-</p></div>
+</p>
+<p><img src="images\medal_bronze.png"></p>
+</div>
 
 <div><h1>My Gist github</h1>
 <script src="https://gist.github.com/yassineouzer/61d5ecebe648fe553d21517389d8789e.js"></script></div>
