@@ -1,4 +1,11 @@
 Tmp/Todo.txt
+
 Tmp/*
+<<<<<<< HEAD
 *.xml
+=======
+
+*.Txt
+
+>>>>>>> 49b9132f8f53143801001ccff8d8b0df432a0b78
  
